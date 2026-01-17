@@ -1,6 +1,6 @@
 cask "keystone" do
   version "0.1.0"
-  sha256 "32d29cfe9c4bcaa8dc91fc1c5847462af5eb599f2e056cd9b603ea89772e2967"
+  sha256 "0ec9fc23ca5417793fb7ca066b4a7124aeb5e72b7d73b03f9f17b5e2ebe480c4"
 
   url "https://github.com/vigneshsb403/Keystone/releases/download/v#{version}/Keystone-#{version}.zip"
   name "Keystone"
